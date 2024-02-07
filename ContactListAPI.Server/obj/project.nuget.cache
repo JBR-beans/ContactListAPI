@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dHORyVAmOW0roMCawblaE4Ik6xn08foefsN41lFU8qq61gl1YvtHY4YXSEusZrk5qvSTs7mwUlntiaOslD516w==",
+  "success": true,
+  "projectFilePath": "D:\\School\\Web Dev III\\Repo\\ContactListAPI\\ContactListAPI.Server\\ContactListAPI.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julie\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.1\\microsoft.aspnetcore.spaproxy.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
